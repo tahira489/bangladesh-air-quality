@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 import pytz
 
-API_KEY  = os.environ["b12df1f5-079a-400f-bd31-9d5a6bcb5873"]
+API_KEY  = os.environ["IQAIR_API_KEY"]
 CSV_FILE = "dhaka_air_quality.csv"
 BST      = pytz.timezone("Asia/Dhaka")
 
