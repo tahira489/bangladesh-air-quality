@@ -1,3 +1,4 @@
 date,time_bst,day_of_week,session,city,aqi,aqi_category,pm25_ugm3,pm10_ugm3,who_pm25_status,main_pollutant,temperature_c,humidity_pct,wind_speed_ms,wind_direction
 2026-03-13,21:41,Friday,Night,Dhaka,141,Unhealthy for Sensitive Groups,,,,p2,25,83,1.11,120
-2026-03-13,22:50,Friday,Night,Dhaka,156,Unhealthy,,,N/A,p2,25,83,1.11,140
+2026-03-13,22:50,Friday,Night,Dhaka,156,Unhealthy,,,,p2,25,83,1.11,140
+2026-03-14,10:11,Saturday,Morning,Dhaka,99,Moderate,,,N/A,p2,26,79,1.67,170
