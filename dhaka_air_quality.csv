@@ -225,4 +225,5 @@ date,time_bst,day_of_week,session,city,aqi,aqi_category,pm25_ugm3,pm10_ugm3,who_
 2026-05-27,12:21,Wednesday,Afternoon,Dhaka,77,Moderate,,,,p2,31,66,1.67,120
 2026-05-27,18:56,Wednesday,Night,Dhaka,68,Moderate,,,,p2,29,75,1.11,80
 2026-05-28,00:29,Thursday,Morning,Dhaka,75,Moderate,,,,p2,27,84,1.11,160
-2026-05-28,12:12,Thursday,Afternoon,Dhaka,64,Moderate,,,N/A,p2,31,63,1.11,90
+2026-05-28,12:12,Thursday,Afternoon,Dhaka,64,Moderate,,,,p2,31,63,1.11,90
+2026-05-28,19:57,Thursday,Night,Dhaka,82,Moderate,,,N/A,p2,30,66,0.56,60
