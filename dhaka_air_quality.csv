@@ -227,4 +227,5 @@ date,time_bst,day_of_week,session,city,aqi,aqi_category,pm25_ugm3,pm10_ugm3,who_
 2026-05-28,00:29,Thursday,Morning,Dhaka,75,Moderate,,,,p2,27,84,1.11,160
 2026-05-28,12:12,Thursday,Afternoon,Dhaka,64,Moderate,,,,p2,31,63,1.11,90
 2026-05-28,19:57,Thursday,Night,Dhaka,82,Moderate,,,,p2,30,66,0.56,60
-2026-05-29,00:39,Friday,Morning,Dhaka,132,Unhealthy for Sensitive Groups,,,N/A,p2,27,84,0.56,80
+2026-05-29,00:39,Friday,Morning,Dhaka,132,Unhealthy for Sensitive Groups,,,,p2,27,84,0.56,80
+2026-05-29,12:14,Friday,Afternoon,Dhaka,110,Unhealthy for Sensitive Groups,,,N/A,p2,32,59,1.11,90
